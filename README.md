@@ -48,7 +48,7 @@ Responsive Django-based e-commerce platform with admin panel, SQL data managemen
 
 **B.Tech in Engineering**  
 Sanjivani College of Engineering, Kopergaon  
-*Jan 2021 – Jun 2024 | CGPA: 8.02*
+*Jan 2021 – Apr 2024 | CGPA: 7.76*
 
 ---
 
